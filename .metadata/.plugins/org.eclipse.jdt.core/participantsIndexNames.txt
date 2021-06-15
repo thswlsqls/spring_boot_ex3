@@ -1,0 +1,7 @@
+INDEX VERSION 1.131
+C:\spring-boot\workspace3\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3931266301.index
+\OpenSource\src\main\java
+C:\spring-boot\workspace3\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\154452410.index
+\react-and-spring-legacy\src\main\java
+C:\spring-boot\workspace3\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1557825448.index
+\aaa\src\main\java
